@@ -1,16 +1,11 @@
 <!-- 请自行修改每日计划的模板 -->
 
-# 每日计划模板
+# 每日计划
 
-## 读书
+## 学习计划
 
-- [ ] 《CSS 新世界》
-- [ ] 红宝书
-- [ ] 阅读两篇技术文章
+- [ ] leetcode 两道
+- [ ] 项目整理
+- [ ] 面试学习
 
-## 编码练习
 
-- [ ] mini-vue
-- [ ] 练习 TypeScript
-
-(该模板使用[ch3cknull/auto-issue-comment](https://github.com/ch3cknull/auto-issue-comment)自动生成)
